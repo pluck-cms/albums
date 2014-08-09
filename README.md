@@ -1,4 +1,6 @@
 albums
 ======
 
-Pluck CMS Albums Moduel
+Pluck CMS Albums Module.
+
+Currently part of the standard pluck package.
